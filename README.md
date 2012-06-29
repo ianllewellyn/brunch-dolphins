@@ -16,7 +16,7 @@ and visit `localhost:8080`
 
 Tests are run through the mocha browser test runner, launch a web server from the project root and navigate to /test/index.html
 
-## Javascript Dependency Versions
+## Javascript Library Versions
 
 Application
 
