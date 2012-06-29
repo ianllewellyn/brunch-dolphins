@@ -1,0 +1,5 @@
+--compilers coffee:coffee-script
+--reporter min
+--globals $,_
+--watch
+--growl

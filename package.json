@@ -1,0 +1,44 @@
+{
+	"author": "",
+	"name": "brunch-dolphins",
+	"description": "",
+	"version": "0.0.1",
+	"homepage": "",
+	"repository":
+	{
+		"type": "subversion",
+		"url": ""
+	},
+	"engines":
+	{
+		"node": "~0.6.10"
+	},
+	"scripts":
+	{
+		"start": "brunch watch --server",
+		"test": "brunch test"
+	},
+	"dependencies":
+	{
+		"javascript-brunch": "> 1.0 < 1.4",
+		"coffee-script-brunch": "> 1.0 <= 1.4",
+		
+		"css-brunch": "> 1.0 < 1.4",
+		"sass-brunch": "> 1.0 < 1.4",
+		
+		"eco-brunch": "1.1.0",
+		
+		"uglify-js-brunch": "> 1.0 < 1.4",
+		"clean-css-brunch": "> 1.0 < 1.4"
+	},
+	"devDependencies":
+	{
+		"chai": "1.0.4",
+		"sinon": "1.3.4",
+		"sinon-chai": "2.1.2",
+		
+		"mocha": "1.0.3",
+		"expect.js": "0.1.2",
+		"coffee-script": "1.3.3"
+	}
+}
