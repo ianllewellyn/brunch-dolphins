@@ -2,11 +2,9 @@
 # it with require:
 # 
 # Config = require 'Config'
-# value = Config.key
-# alert "Config.key is '#{value}'"
+# title = Config.title
+# alert "Config.title is '#{title}'"
 
 module.exports =
-	
-	key: 'value'
 	
 	title: 'brunch-dolphins'
