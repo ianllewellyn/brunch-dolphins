@@ -30,4 +30,4 @@ For testing
 * CoffeeScript 1.3.3
 * Mocha 1.0.3
 * Sinon 1.4.0 (pre-release)
-* sinon-chai
+* sinon-chai 2.1.2
