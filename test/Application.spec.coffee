@@ -1,5 +1,5 @@
-define 'Application', ->
+describe 'Application', ->
 	
-	define 'constructor()', ->
+	describe 'constructor()', ->
 		
 		it 'should do something'
