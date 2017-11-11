@@ -1,6 +1,6 @@
 # brunch-dolphins
 
-**brunch-dolphins** is a [brunch](http://brunch.io) skeleton that uses [coffeescript](http://coffeescript.org/), [compass](http://compass-style.org/), [eco](https://github.com/sstephenson/eco/), [zepto](http://zeptojs.com/), [backbone](http://backbonejs.org/), [mocha](http://visionmedia.github.com/mocha/), [sinon](http://sinonjs.org/) and [chai](http://chaijs.com/).
+**brunch-dolphins** is a [brunch](http://brunch.io) skeleton that uses [coffeescript](http://coffeescript.org/), [compass](http://compass-style.org/), [eco](https://github.com/sstephenson/eco/), [zepto](http://zeptojs.com/), [backbone](http://backbonejs.org/), [mocha](https://mochajs.org/), [sinon](http://sinonjs.org/) and [chai](http://chaijs.com/).
 
 ## Usage
 
